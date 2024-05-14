@@ -1,0 +1,29 @@
+{
+  "name": "Cosmo-Paw-liton",
+  "version": "1.0.0",
+  "description": "IIP Project",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thakkar-Khushang/Cosmo-Paw-liton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thakkar-Khushang/Cosmo-Paw-liton/issues"
+  },
+  "homepage": "https://github.com/Thakkar-Khushang/Cosmo-Paw-liton#readme"
+}

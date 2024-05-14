@@ -1,0 +1,27 @@
+.Header{
+    .Padder{
+        padding-bottom: 50px;
+    }
+    .HeaderRoot{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        height: min-content;
+        background-color: rgb(0, 0, 0, 0);
+        position: absolute;
+        padding: 10px;
+        .HeaderSections{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            .HeaderItem{
+                margin: 0;
+                font-size: 20px;
+                padding-left: 10px;
+                padding-right: 10px;
+                color: white;
+            }
+        }
+    }
+}
